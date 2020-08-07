@@ -1,8 +1,8 @@
 .prof-pic {
-  display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 100%;
+  margin-bottom: 20px;
+  width: 85%;
 }
 
 .jumbotron {
