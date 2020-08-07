@@ -31,6 +31,10 @@ body {
   background-color: #9753cf;
 }
 
+.made-with {
+  color: purple;
+}
+
 #partners {
   margin-top: 30px;
 }
