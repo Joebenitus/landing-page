@@ -1,10 +1,32 @@
+body {
+  background-image: url("bg.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100%;
+  width: auto;
+}
+
+.card {
+  border: 5px solid #240090;
+  border-style: groove;
+}
+
 .prof-pic {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 20px;
   width: 85%;
+  border: 5px solid #240090;
+  border-style: groove;
 }
 
 .jumbotron {
   text-align: center;
+  border: 5px solid #240090;
+  border-style: groove;
+}
+
+#partners {
+  margin-top: 30px;
 }
