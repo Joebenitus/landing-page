@@ -5,6 +5,7 @@ body {
   background-size: cover;
   height: 100%;
   width: auto;
+  color: black;
 }
 
 .card {
@@ -12,6 +13,20 @@ body {
   border-style: groove;
   margin-bottom: 30px;
   background-color: #9753cf;
+}
+
+.card-body h2 {
+  font-family: fantasy;
+  color: black;
+  border: 2px solid black;
+  text-align: center;
+  background-color: #240090;
+}
+
+.card-text {
+  border: 2px solid black;
+  padding: 5px;
+  background-color: blueviolet;
 }
 
 .prof-pic {
@@ -44,19 +59,11 @@ body {
   margin-top: 30px;
 }
 
-.card-body h2 {
-  font-family: fantasy;
-  color: black;
-  border: 2px solid black;
-  text-align: center;
-  background-color: #240090;
-}
-
 .warrior {
   float: left;
   margin-right: 5px;
 }
 
-#abt-me {
-  ;
+ol {
+  list-style-position: inside;
 }
