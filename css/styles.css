@@ -10,6 +10,8 @@ body {
 .card {
   border: 5px solid #240090;
   border-style: groove;
+  margin-bottom: 30px;
+  background-color: #9753cf;
 }
 
 .prof-pic {
@@ -22,9 +24,11 @@ body {
 }
 
 .jumbotron {
+  margin-top: 30px;
   text-align: center;
   border: 5px solid #240090;
   border-style: groove;
+  background-color: #9753cf;
 }
 
 #partners {
