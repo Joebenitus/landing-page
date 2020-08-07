@@ -1,0 +1,10 @@
+.prof-pic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.jumbotron {
+  text-align: center;
+}
