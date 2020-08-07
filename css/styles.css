@@ -21,6 +21,7 @@ body {
   width: 100%;
   border: 5px solid #240090;
   border-style: groove;
+  float: right;
 }
 
 .jumbotron {
@@ -29,6 +30,10 @@ body {
   border: 5px solid #240090;
   border-style: groove;
   background-color: #9753cf;
+}
+
+.jumbotron h1 {
+  font-family: fantasy;
 }
 
 .made-with {
@@ -41,4 +46,8 @@ body {
 
 .card-body h2 {
   font-family: fantasy;
+  color: black;
+  border: 2px solid black;
+  text-align: center;
+  background-color: #240090;
 }
