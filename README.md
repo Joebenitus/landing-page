@@ -16,7 +16,7 @@ _This is the first friday project for Epicodus. This is a landing page for my fu
 * _Locate the file on your desktop named "landing-page"_
 * _Double-click the file named "index.html"_
 
-GitHub Pages link: joebenitus.github.io/landing-page
+GitHub Pages link: http://joebenitus.github.io/landing-page
 
 ## Known Bugs
 
