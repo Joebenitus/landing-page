@@ -12,7 +12,7 @@ body {
   border: 5px solid #240090;
   border-style: groove;
   margin-bottom: 30px;
-  background-color: #9753cf;
+  background-color: #9753cfd3;
 }
 
 .card-body h2 {
@@ -32,7 +32,7 @@ body {
 .prof-pic {
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 20px;
+  margin-bottom: auto;
   width: 100%;
   border: 5px solid #240090;
   border-style: groove;
@@ -44,7 +44,7 @@ body {
   text-align: center;
   border: 5px solid #240090;
   border-style: groove;
-  background-color: #9753cf;
+  background-color: #9753cfd3;
 }
 
 .jumbotron h1 {
